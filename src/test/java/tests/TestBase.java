@@ -1,9 +1,9 @@
 package tests;
 
 import com.codeborne.selenide.logevents.SelenideLogger;
-import config.ProjectConfiguration;
 import config.web.LaunchConfig;
 import config.web.LaunchConfigReader;
+import config.web.ProjectConfiguration;
 import helpers.Attach;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.AfterEach;

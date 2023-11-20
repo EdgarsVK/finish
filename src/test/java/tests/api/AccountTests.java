@@ -20,7 +20,7 @@ import static io.restassured.RestAssured.given;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.hamcrest.CoreMatchers.is;
 
-@Owner("werechess")
+@Owner("edgar_k")
 @Epic(value = "Book Store Application")
 @Feature(value = "API")
 @Story(value = "Account API")
